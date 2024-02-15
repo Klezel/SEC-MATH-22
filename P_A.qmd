@@ -1,0 +1,14 @@
+---
+title: "Patterns And Algebra"
+author: 
+ - Jayson Alvarez 
+ - Klezel Bantiyan
+format: html
+editor: visual
+---
+
+Patterns and Algebra
+
+Grade 8
+
+Use technology in teaching
