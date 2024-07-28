@@ -7,10 +7,130 @@ format: html
 editor: visual
 ---
 
-Patterns and Algebra
+# Quarter 1- Module 10: "Graphing Linear Equations"
 
-Grade 8
+## Lesson 1: Methods of Graphing a Linear Equation Given
 
-Use technology in teaching
+A linear equation in two variables can be written either in the form *Ax + By = C* or *y = mx + b* where *A, B,* and *C* are real numbers, and *A* and *B* are not equal to zero. Graphing linear equations can be done using any of the three methods.
 
-make a power point presentation
+\(a\) Using any two points;
+
+\(b\) Using x- and y- Intercepts;
+
+\(c\) Using the slope and a point on the line
+
+### Using Any Two Points
+
+One method of graphing a linear equation is using any two points. Remember that two points are enough to draw the graph of a linear equation.
+
+**Example 1**. Graph the linear equation y = 2x + 1.
+
+**Solution:**
+
+You may assign any two arbitrary values of x, say 0 and 1, and then solve for the corresponding value of y.
+
+By substitution,
+
+y = 2x + 1
+
+When x = 0 When x = 1
+
+y = 2(0) + 1 y = 2(1) + 1
+
+y = 0 + 1 y = 2 + 1
+
+**y = 1 y = 3**
+
+Thus, the ordered pairs are (0, 1) and (1, 3). this means that the line passes through these points.
+
+Plot these points and draw a line through them.![](P_A_files/Screenshot%202024-07-28%20143456.png)
+
+### Using x-and y-intercept
+
+Another way of graphing a linear equation in two variables is using the x-intercept **a** and y-intercept **b**. the x- and y- intercepts of the line could represent two points, which are (**a, 0**) and (**0, b**). Thus, the intercepts are enough to draw the graph of a linear equation.
+
+**Example 2**. Graph the linear equation y = 2x + 1.
+
+**Solution:**
+
+To find the x-intercept of a line given its equation, let y = 0, then solve for x. To find the y-intercept of a line given its equation, let x = 0, then solve for y.
+
+To find x-intercept, let y = 0.
+
+y = 2x + 1
+
+0 = 2x + 1 Substitution
+
+\- 2x = 1 Addition Property of Equality
+
+x = $-\frac{1}{2}$ Multiplication Property of Equality
+
+Hence, the x-intercept is $-\frac{1}{2}$. In symbol, a = $-\frac{1}{2}$. Then the point in the x-axis is ($-\frac{1}{2}$, 0).
+
+To find the y-intercept, let x = 0, then solve for y.
+
+y = 2x + 1
+
+y = 2(0) + 1 Substitution
+
+y = 0 + 1 Identity property for Addition
+
+y = 1
+
+Hence, the y-intercept is 1. In symbol, b = 1. Then the point in the y-axis is (0, 1).
+
+Now, plot the x- and y-intercepts, then draw a line that passes through them.
+
+![](P_A_files/Screenshot%202024-07-28%20145457.png)
+
+### Using the slope and a point on the line
+
+Graphing linear equation can also be done using the slope and one point.
+
+**Example 3**. Graph the line whose slope is 2 and contains the point (-1, -1).
+
+**Solution:**
+
+1.  Plot the given point. (-1, -1)
+
+2.  Use the slope formula m = $\frac{rise}{run}$ to identify the rise and the run. The slope of the line is 2 which is equal to $\frac{2}{1}$.
+
+    Note: *If the slope is positive, the graph moves upward; if the slope is negative, the graph moves downward.*
+
+3.  Starting at the given point (-1, -1), count out the rise (*2 units up*) and run (*1 unit to the right*) to mark the second point. (Note That the slope is positive)
+
+4.  Draw a line passing the points.
+
+![](P_A_files/Screenshot%202024-07-28%20145843.png)
+
+#### Group Activity
+
+**Activity for Group 1**: Graph each linear equation that passes through the given pair of points.
+
+1.  (1, 2) and (3, 4)
+2.  (5, 6) and (0, 11)
+3.  (-2, $\frac{5}{3}$) and ($\frac{1}{2}$, $-\frac{1}{3}$)
+
+**Activity for Group 2**: Graph each linear equation whose x-intercept *a*and y-intercept *b* are given below.
+
+1.  *a* = 4 and *b* = -1
+2.  *a*= $\frac{1}{2}$ and *b*= -2
+
+**Activity for Group 3**: Graph the following equations given slope *m* and a point.
+
+1.  *m* = $\frac{1}{2}$ and (0, 4)
+2.  *m* = $\frac{3}{2}$ and (2, -3)
+
+#### Assessment
+
+Direction: Sketch the graph of each linear equation using any of the three methods presented. Using a graphing paper.
+
+1.  x - y + 3 = 0
+2.  y = $\frac{1}{4}x$ - 2
+3.  y = $-\frac{3}{2}x$ + 1
+
+#### Additional Activity / Assignment
+
+Direction: Read and analyze the problem, then give the what is asked.
+
+Mr. Vasco operates a bike rental service in the park. Initially it costs *Php* 15 to rent a bike, and an additional rent *Php* 5 for every hour you use it. Give the equation and show the graph representing the cost (y) of using the bike for (x) hours.
